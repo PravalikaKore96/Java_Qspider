@@ -1,0 +1,1 @@
+package hyrachical_inheritance;
